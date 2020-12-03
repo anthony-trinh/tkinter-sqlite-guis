@@ -109,7 +109,7 @@ c.execute("""
 	""")
 
 c.execute("""
-	CREATE TABLE diagnosises(
+	CREATE TABLE diagnoses(
 	diagnosis_id int, 
 	results text,
 	appointment_id int

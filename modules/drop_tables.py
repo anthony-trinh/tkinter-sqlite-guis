@@ -37,7 +37,7 @@ c.execute("""
     """)
 
 c.execute("""
-    DROP TABLE diagnosises
+    DROP TABLE diagnoses
     """)
 
 c.execute("""

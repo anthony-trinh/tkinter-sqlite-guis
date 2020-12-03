@@ -5,7 +5,7 @@ import os
 
 # initialize root
 root = Tk()
-
+root.title("Hospital DBMS")
 
 
 

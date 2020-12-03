@@ -8,6 +8,7 @@ import sqlite3
 
 #some variables
 root=Tk()
+root.title("Medicines")
 
 #create DB or connect to one 
 conn = sqlite3.connect('hospital.db') 
